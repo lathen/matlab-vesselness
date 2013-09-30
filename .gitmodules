@@ -1,0 +1,6 @@
+[submodule "CUDA-conv3"]
+	path = CUDA-conv3
+	url = https://github.com/lathen/matlab-CUDA-conv3.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/lathen/matlab-lib.git
